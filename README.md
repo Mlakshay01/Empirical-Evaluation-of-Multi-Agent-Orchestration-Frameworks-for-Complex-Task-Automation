@@ -16,7 +16,7 @@ Generate real-time visual and tabular comparison reports through a Streamlit das
 | **Agent Frameworks**      | LangChain, CrewAI, AutoGen                 |
 | **UI Framework**          | Streamlit                                  |
 | **Document Parsing**      | PyPDF2, python-docx, python-pptx           |
-| **Web Search (fallback)** | Brave/DDG (limited)                        |
+| **Web Search (fallback)** | Serp API                        |
 | **Evaluation**            | Coherence via LLM, token count             |
 | **Visualization**         | Matplotlib, Pandas                         |
 
