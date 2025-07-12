@@ -1,0 +1,31 @@
+# Core LLM functionality
+requests
+openai
+
+# Document parsing
+PyPDF2
+python-docx
+python-pptx
+
+# Web search
+duckduckgo-search==8.1.1
+
+# Frontend UI
+streamlit
+
+# Code execution and safety
+psutil
+
+# Data visualization
+matplotlib
+
+# LangChain + CrewAI
+langchain
+crewai
+
+# FastAPI (optional if using API endpoints)
+fastapi
+uvicorn
+
+# Other
+tqdm
